@@ -1,0 +1,28 @@
+name: Raymond Lees Jewellery
+favicon: null
+layout_spectrum: 0.8552958064246923
+typography_spectrum: 0.646388815715909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.49568642396479845
+  lightness: 0.7730826032347977
+  saturation: 0.4698662308510393
+  rhythmicContrast: 0.03845142829231918
+purpose: []
