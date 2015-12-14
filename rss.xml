@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Business Gallery site for Raymond Lees Jewellery]]></title>
+        <description><![CDATA[Business Gallery site for Raymond Lees Jewellery]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Dec 2015 10:42:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It's finally live. Raymond Lees Jewellery is on the web. From here on we'll be uploading Gallery images regularly, setting up our online store and keeping you informed of all hat goes on to make those personal handmade pieces that you cherish]]></title>
+            <description><![CDATA[<article><h1>It's finally live. Raymond Lees Jewellery is on the web. From here on we'll be uploading Gallery images regularly, setting up our online store and keeping you informed of all hat goes on to make those personal handmade pieces that you cherish</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33c71cafa23cc0dbc07817856553bc0bbd320ea2.jpg"></article>]]></description>
+            <link>undefinedits-finally-live-raymond-lees-jewellery-is-on-the-web-fro/index.html</link>
+            <guid isPermaLink="false">ca0ab634-4bf0-4639-84da-0afabd4cd01f</guid>
+            <pubDate>Mon, 14 Dec 2015 10:42:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
