@@ -1,7 +1,7 @@
 name: Raymond Lees Jewellery
 favicon: null
-layout_spectrum: 0.8552958064246923
-typography_spectrum: 0.646388815715909
+layout_spectrum: 1
+typography_spectrum: 1
 title: Business Gallery site for Raymond Lees Jewellery
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#a3a29d'
+    - '#5c5954'
+    - '#3b3632'
+    - '#05080d'
   brandStrength: 0.49568642396479845
-  lightness: 0.7730826032347977
-  saturation: 0.4698662308510393
-  rhythmicContrast: 0.03845142829231918
+  lightness: 0.5
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
