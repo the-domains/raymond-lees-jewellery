@@ -1,6 +1,6 @@
 name: Raymond Lees Jewellery
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.74242
 typography_spectrum: 1
 title: Business Gallery site for Raymond Lees Jewellery
 cta:
@@ -24,6 +24,6 @@ color:
     - '#05080d'
   brandStrength: 0
   lightness: 0.5
-  saturation: 0.3125
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
