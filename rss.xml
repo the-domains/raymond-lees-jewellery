@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Business Gallery site for Raymond Lees Jewellery]]></title>
         <description><![CDATA[Business Gallery site for Raymond Lees Jewellery]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/raymond-lees-jewellery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 10:42:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 22:30:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/raymond-lees-jewellery/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc6de08a-a419-4544-8a18-777e90814c59.jpg">]]></description>
+            <link>https://thegrid.ai/raymond-lees-jewellery/c1ed0888-d9a4-403e-b806-2a4db8a50222/index.html</link>
+            <guid isPermaLink="false">c1ed0888-d9a4-403e-b806-2a4db8a50222</guid>
+            <pubDate>Tue, 15 Dec 2015 22:30:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It's finally live. Raymond Lees Jewellery is on the web. From here on we'll be uploading Gallery images regularly, setting up our online store and keeping you informed of all hat goes on to make those personal handmade pieces that you cherish]]></title>
-            <description><![CDATA[<article><h1>It's finally live. Raymond Lees Jewellery is on the web. From here on we'll be uploading Gallery images regularly, setting up our online store and keeping you informed of all hat goes on to make those personal handmade pieces that you cherish</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33c71cafa23cc0dbc07817856553bc0bbd320ea2.jpg"></article>]]></description>
-            <link>undefinedits-finally-live-raymond-lees-jewellery-is-on-the-web-fro/index.html</link>
+            <description><![CDATA[<article><h1>It's finally live. Raymond Lees Jewellery is on the web. From here on we'll be uploading Gallery images regularly, setting up our online store and keeping you informed of all hat goes on to make those personal handmade pieces that you cherish</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ab7172afe9135fa7321f9ae37a9eca4fffb9679.jpg"></article>]]></description>
+            <link>https://thegrid.ai/raymond-lees-jewellery/its-finally-live-raymond-lees-jewellery-is-on-the-web-fro/index.html</link>
             <guid isPermaLink="false">ca0ab634-4bf0-4639-84da-0afabd4cd01f</guid>
             <pubDate>Mon, 14 Dec 2015 10:42:29 GMT</pubDate>
         </item>
